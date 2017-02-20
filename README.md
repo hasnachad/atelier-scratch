@@ -50,7 +50,7 @@ Cette formation qualifiante dans les métiers de la programmation web a pour fin
 - si  [action]
 - comparateur ">", "="
 - allumer video
-- apparece fanôme
+- apparence fantôme
 - Si costume est touché [action]
 - Avancer de ''
 - Au démarrage [action]
